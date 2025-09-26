@@ -21,7 +21,7 @@ namespace Hero_Quest
         }
 
         private void OutputLabel_Click_1(object sender, EventArgs e)
-        {
+        { 
 
         }
 
